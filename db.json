@@ -13,10 +13,9 @@
       "title": "hello"
     }
   ],
-  "data": [
-    {
-      "name": "Fauza Riawan",
-      "address": "Jl. Nuri 13"
-    }
-  ]
+  "data": {
+    "name": "Fauza Riawan",
+    "address": "Jl. Nuri 13"
+  }
+  
 }
